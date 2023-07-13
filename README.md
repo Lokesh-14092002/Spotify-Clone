@@ -1,4 +1,4 @@
-![image](https://github.com/Lokesh-14092002/Spotify-Clone/assets/95373555/643966e3-29a4-4e26-865a-c668c54fd89a)# Spotify-Clone
+# Spotify-Clone
 
 As part of learning to code, I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development. It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next. 
  
